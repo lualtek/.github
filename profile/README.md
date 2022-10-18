@@ -1,2 +1,2 @@
-<img src="https://user-images.githubusercontent.com/10454741/196221011-4e12bfea-29e0-4048-b08f-c194d31a74eb.jpg" alt="Lualtek Logo" >
+<img src="https://user-images.githubusercontent.com/10454741/196407971-6c70ebd9-bce0-4cc3-8d33-25f3512683da.jpg" alt="Lualtek Logo" >
 
